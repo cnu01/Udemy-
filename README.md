@@ -13,7 +13,7 @@ Udemy is a platform that allows instructors to build online courses on their pre
    * After selecting a course to view, a list of suggested similar courses is populated.
    * Videos can be played while viewing a course.
    
- ![carousel movement](https://miro.medium.com/max/1400/1*M_bAuwaQKpYM8MMbmLs8JQ.png
+ ![carousel movement](https://miro.medium.com/max/1400/1*M_bAuwaQKpYM8MMbmLs8JQ.png)
  
  * Cart
    * Students can add the courses to Cart, remove from cart. 
